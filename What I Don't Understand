@@ -1,0 +1,11 @@
+ex23:
+how are script, encoding and error related? how do i pass error as command line arg?
+are encoding and error associated with every line?
+how is line incrementing after recursive call of main within main? is it bc of tape-lie nature?
+what does line.strip() do? Is it a string function?
+What does .encode() do?
+What does errors=errors mean? why is it passed like that?
+What is utf-8?
+
+ex25:
+why does .sort() in python, on being passed a string return sorted characters instead of words?
